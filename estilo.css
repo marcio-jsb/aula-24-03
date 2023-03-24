@@ -1,0 +1,30 @@
+p{text-indent:20px;
+  text-align: justify;}
+
+#lista{
+    margin-left: 5%;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    border-bottom: 1px dashed black;
+}
+.ulayo{
+    width: 70%;
+}
+.container text-center{
+    width: 80%;
+    margin: auto;
+}
+footer{
+    background-color: rgb(121, 117, 109);
+    height: 50px;
+}
+
+.data{
+   background-color:black;
+   color:white;
+   display: inline-block;
+   padding:10px 20px;
+}
